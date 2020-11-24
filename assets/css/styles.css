@@ -22,3 +22,11 @@ a {
     text-align: center;
     height: 100%;
 }
+
+.timer {
+    font-weight: bold;
+}
+
+.hide{
+    display:none;
+}

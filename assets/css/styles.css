@@ -8,10 +8,14 @@ body {
     min-height: 100%;
 }
 
-a {
+a, a:hover, a:active {
     font-weight: bold;
     color: #28a745;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .container {
@@ -29,4 +33,17 @@ a {
 
 .hide{
     display:none;
+}
+
+.btn {
+    margin:1em auto;
+    display: block;
+    min-width:250px;
+}
+
+.scoreboard {
+    display: block;
+    margin: 1em auto;
+    border-bottom:1px solid #999;
+    padding:.5em 0;
 }

@@ -9,7 +9,7 @@ This is timed quiz that scores user input based off of the time it takes the use
 ## Technologies Used: 
 HTML, CSS, javascript, local storage and bootstrap 
 
-![code quiz](./Assets/img/code-quiz.gif)
+![demo gif](./Assets/img/code-quiz.gif)
 
 ## Contact Info:
 joolyen@gmail.com
